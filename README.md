@@ -1,6 +1,6 @@
-# WebPack Starter
+# Gestión de Tareas
 
-Plantilla para crear proyectos con Webpack y JS
+APlicación para gestionar tareas
 
 
 ## Notas:
